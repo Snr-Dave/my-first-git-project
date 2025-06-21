@@ -11,3 +11,11 @@ I'm learning about:
 I plan to add more details about specific features or learnings here soon!
 ---
 Using GitHub's web interface is very convenient for mobile learning.
+## New Feature Idea: User Authentication
+
+I'm considering adding user authentication to this project. This would involve:
+- User registration and login
+- Password hashing for security
+- Session management
+
+This feature would significantly expand the project's capabilities.
