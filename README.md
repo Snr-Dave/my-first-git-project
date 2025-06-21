@@ -9,3 +9,5 @@ I'm learning about:
 - How to contribute to open source projects
 
 I plan to add more details about specific features or learnings here soon!
+---
+Using GitHub's web interface is very convenient for mobile learning.
