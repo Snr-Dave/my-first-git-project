@@ -1,0 +1,15 @@
+# Ignore common OS files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary or log files
+*.log
+*.tmp
+*.bak
+
+# Ignore dependency directories (if you start using package managers like npm)
+node_modules/
+
+# Ignore compiled files (if you start with build processes)
+/dist/
+/build/
